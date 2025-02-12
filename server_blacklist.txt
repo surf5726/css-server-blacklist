@@ -1,0 +1,225 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"5.101.218.11:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"5.101.218.188:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"5.181.253.220:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"5.188.38.50:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"5.189.201.24:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"5.189.201.157:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"31.130.138.41:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"31.130.138.49:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"37.230.141.34:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"45.129.185.155:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"45.143.203.157:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"62.109.21.133:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"80.87.105.87:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"80.87.107.150:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"80.87.108.138:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"80.90.182.187:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"80.97.49.42:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"83.220.175.140:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"88.151.192.110:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"89.22.169.2:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"91.201.54.243:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"91.243.84.28:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"92.38.130.31:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"92.38.130.240:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"94.198.220.144:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"146.185.198.11:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"146.185.198.39:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"147.45.113.36:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"147.45.113.49:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"151.252.104.37:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"185.173.176.75:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"192.145.99.107:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"193.19.119.97:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"193.19.119.167:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"194.156.103.121:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"213.159.214.112:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
+		"addr"		"213.189.217.191:0"
+	}
+}
