@@ -172,9 +172,14 @@
 	{
 		"name"		"Spam"
 		"date"		"0"
+		"addr"		"89.111.141.33:0"
+	}
+	"server"
+	{
+		"name"		"Spam"
+		"date"		"0"
 		"addr"		"89.111.141.144:0"
 	}
-	
 	"server"
 	{
 		"name"		"Spam"
